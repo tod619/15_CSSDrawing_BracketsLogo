@@ -7,3 +7,12 @@ body {
     align-items: center;
     justify-content: center;
 }
+
+.brackets {
+    width: 200px;
+    height: 175px;
+    background-color: #fff;
+    border-radius: 31px;
+    box-shadow: 0 0 0 28px #28a9e1,
+                0 28px 0 28px #115a91;
+}
